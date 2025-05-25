@@ -130,3 +130,154 @@ O foco deve estar na capitalização dos modelos de sucesso (RG 40XXV e RG35XX) 
 ---
 
 *Relatório gerado com base na análise de 140 transações de vendas entre maio-novembro 2024*
+
+# Prompts Utilizados para Análise de Vendas Meganium
+
+## 1. Prompt Inicial de Análise Geral
+```
+Analise os dados de vendas da Meganium Gaming contidos no arquivo CSV. Forneça um resumo executivo completo incluindo:
+- Faturamento total e número de transações
+- Período analisado
+- Principais produtos vendidos
+- Plataformas de venda utilizadas
+- Distribuição geográfica das vendas
+- Insights estratégicos principais
+
+Organize as informações de forma estruturada e profissional.
+```
+
+## 2. Prompts para Análise de Produtos
+```
+Com base nos dados de vendas, analise a performance de cada produto:
+- Identifique os produtos mais vendidos por quantidade
+- Calcule o faturamento por modelo de produto
+- Determine a estratégia de preços de cada modelo
+- Classifique os produtos por categoria (premium, mainstream, entrada, nicho)
+- Forneça recomendações para otimização do portfólio
+```
+
+## 3. Prompts para Análise de Plataformas
+```
+Examine a performance de vendas por plataforma de venda:
+- Compare o volume de vendas entre AliExpress, Etsy, Shopee e base consolidada
+- Identifique qual plataforma tem melhor performance
+- Analise se existe distribuição equilibrada entre canais
+- Sugira estratégias específicas para cada canal
+- Recomende otimizações baseadas na performance de cada plataforma
+```
+
+## 4. Prompts para Análise Geográfica
+```
+Analise a distribuição geográfica das vendas:
+- Identifique os principais mercados por país
+- Classifique mercados como principais, emergentes ou com potencial inexplorado
+- Identifique oportunidades de expansão geográfica
+- Compare a performance relativa entre diferentes regiões
+- Sugira estratégias de entrada em novos mercados
+```
+
+## 5. Prompts para Análise Temporal/Sazonalidade
+```
+Examine os padrões temporais nas vendas:
+- Identifique tendências mensais de vendas de maio a novembro 2024
+- Detecte picos sazonais e períodos de baixa
+- Correlacione padrões com eventos do calendário (verão, Black Friday, etc.)
+- Analise a evolução das vendas ao longo do período
+- Forneça insights sobre sazonalidade para planejamento futuro
+```
+
+## 6. Prompts para Análise Financeira
+```
+Execute uma análise financeira detalhada:
+- Calcule o faturamento bruto total
+- Determine o impacto dos descontos aplicados
+- Calcule métricas como ticket médio e quantidade média por pedido
+- Analise a estrutura de receitas por produto
+- Estime margens e rentabilidade por modelo
+- Calcule o faturamento líquido estimado
+```
+
+## 7. Prompts para Análise de Cliente
+```
+Analise o perfil e comportamento dos clientes:
+- Determine a quantidade média de produtos por pedido
+- Identifique padrões demográficos nos dados disponíveis
+- Segmente clientes por comportamento de compra
+- Analise a relação entre produtos escolhidos e perfil do cliente
+- Sugira estratégias de segmentação de mercado
+```
+
+## 8. Prompts para Estratégia de Preços
+```
+Examine a estratégia de preços atual:
+- Compare preços entre diferentes modelos
+- Analise a correlação entre preço e volume de vendas
+- Calcule a taxa média de desconto aplicada
+- Identifique oportunidades de otimização de preços
+- Sugira testes A/B para modelos específicos
+```
+
+## 9. Prompts para Recomendações Estratégicas
+```
+Com base em toda a análise realizada, desenvolva recomendações estratégicas:
+- Priorize ações por impacto e facilidade de implementação
+- Divida recomendações em curto, médio e longo prazo
+- Foque em oportunidades de crescimento identificadas
+- Sugira KPIs para monitoramento contínuo
+- Proponha próximos passos específicos e mensuráveis
+```
+
+## 10. Prompt para Síntese e Conclusões
+```
+Sintetize todos os insights em conclusões-chave:
+- Resuma os principais achados da análise
+- Identifique as maiores oportunidades de crescimento
+- Destaque riscos e desafios identificados
+- Forneça uma visão consolidada da situação atual da empresa
+- Estabeleça prioridades claras para ação
+```
+
+## 11. Prompts Complementares para Detalhamento
+
+### Análise de Competitividade
+```
+Analise o posicionamento competitivo com base nos dados:
+- Compare preços praticados com padrões do mercado
+- Identifique vantagens competitivas nos produtos
+- Avalie estratégias de diferenciação
+- Sugira melhorias no posicionamento
+```
+
+### Análise de Canais
+```
+Aprofunde a análise de performance por canal de vendas:
+- Compare eficiência de cada plataforma
+- Identifique características únicas de cada canal
+- Sugira estratégias personalizadas por plataforma
+- Avalie potencial de novos canais
+```
+
+### Projeções e Forecasting
+```
+Com base nos padrões identificados, faça projeções:
+- Estime crescimento potencial por produto
+- Projete performance futura por mercado
+- Identifique fatores de risco para as projeções
+- Sugira cenários otimista, realista e pessimista
+```
+
+---
+
+## Notas sobre Metodologia de Prompts
+
+### Sequenciamento
+Os prompts foram aplicados em sequência lógica, começando com análise geral e aprofundando em áreas específicas.
+
+### Iteratividade
+Cada prompt foi refinado com base nos insights obtidos nos anteriores, permitindo análise cada vez mais específica.
+
+### Contextualização
+Todos os prompts mantiveram referência ao contexto específico da Meganium Gaming e mercado de consoles retro portáteis.
+
+### Orientação a Resultados
+Cada prompt foi desenhado para gerar insights acionáveis e recomendações práticas para a empresa.
